@@ -1,6 +1,6 @@
 # Far-versus-Near-Field-RIS-Modeling-and-Beam-Design
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://choosealicense.com/licenses/mit/)
-[![DOI](https://img.shields.io/badge/DOI-https://arxiv.org/pdf/2401.08237-blue.svg)](https://arxiv.org/pdf/2401.08237)
+[![arXiv](https://img.shields.io/badge/arXiv-2401.08237-B31B1B.svg)](https://arxiv.org/pdf/2401.08237)
 
 This repository contains the source code for the paper (Mohamadreza Delbari, George C Alexandropoulos, Robert Schober, Vahid Jamali, “Far-versus Near-Field RIS Modeling and Beam Design,” in https://arxiv.org/pdf/2401.08237)
 
@@ -23,10 +23,11 @@ This program is licensed under the MIT license. If you in any way use this code 
 You can use the following BibTeX entry
 
 <pre lang="markdown">
-@article{delbari2024far,
-  title={Far-versus Near-Field RIS Modeling and Beam Design},
+@incollection{delbari2024far,
+  title={Far- versus Near-Field {RIS} Modeling and Beam Design},
   author={Delbari, Mohamadreza and Alexandropoulos, George C and Schober, Robert and Jamali, Vahid},
-  journal={arXiv preprint arXiv:2401.08237},
-  year={2024}
+  booktitle={Reconfigurable Metasurfaces for Wireless Communications: Architectures, Modeling, and Optimization},
+  publisher={Springer},
+  note      = {arXiv preprint: \url{https://arxiv.org/pdf/2401.08237}, 2024}
 }
 </pre>
