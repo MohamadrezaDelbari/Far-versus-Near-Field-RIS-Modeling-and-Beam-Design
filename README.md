@@ -24,11 +24,17 @@ This program is licensed under the MIT license. If you in any way use this code 
 You can use the following BibTeX entry
 
 <pre lang="markdown">
-@incollection{delbari2024far,
-  title={Far- versus Near-Field {RIS} Modeling and Beam Design},
-  author={Delbari, Mohamadreza and Alexandropoulos, George C and Schober, Robert and Jamali, Vahid},
-  booktitle={Reconfigurable Metasurfaces for Wireless Communications: Architectures, Modeling, and Optimization},
-  publisher={Springer},
-  note      = {arXiv preprint: \url{https://arxiv.org/pdf/2401.08237}, 2024}
+@Inbook{Delbari2026,
+author="Delbari, Mohamadreza and Alexandropoulos, George C. and Schober, Robert and Jamali, Vahid",
+editor="Alexandropoulos, George C. and Zappone, Alessio and Shlezinger, Nir and Di Renzo, Marco and Eldar, Yonina",
+title="Far- Versus Near-Field RIS Modeling and Beam Design",
+bookTitle="Reconfigurable Intelligent Surfaces for Wireless Communications: Modeling, Architectures, and Applications",
+year="2026",
+publisher="Springer Nature Singapore",
+address="Singapore",
+pages="193--223",
+isbn="978-981-95-1814-2",
+doi="10.1007/978-981-95-1814-2_8",
+url="https://doi.org/10.1007/978-981-95-1814-2_8"
 }
 </pre>
