@@ -1,6 +1,7 @@
 # Far-versus-Near-Field-RIS-Modeling-and-Beam-Design
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://choosealicense.com/licenses/mit/)
 [![arXiv](https://img.shields.io/badge/arXiv-2401.08237-B31B1B.svg)](https://arxiv.org/pdf/2401.08237)
+[![DOI](https://img.shields.io/badge/DOI-10.1109/10.1007/978-981-95-1814-2_8-blue.svg)](https://link.springer.com/chapter/10.1007/978-981-95-1814-2_8)
 
 This repository contains the source code for the paper (Mohamadreza Delbari, George C Alexandropoulos, Robert Schober, Vahid Jamali, “Far-versus Near-Field RIS Modeling and Beam Design,” in https://arxiv.org/pdf/2401.08237)
 
